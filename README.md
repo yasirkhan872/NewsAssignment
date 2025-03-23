@@ -16,7 +16,6 @@ SwiftUI – UI framework
 AVKit – Video playback
 URLSession – API requests
 Cache System – Image & video caching
-Installation
 
 Clone the repository:
 git clone https://github.com/yasirkhan872/NewsAssignment.git
